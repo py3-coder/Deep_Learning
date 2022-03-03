@@ -8,7 +8,7 @@ Basically it descide the X_ray is affected with Pnemonia or not.
 
 ## Authors
 
-- [@SaurabhKumar](https://github.com/Saurabh2509)
+- [@SaurabhKumar](https://github.com/py3-coder)
 
 
 ## License
